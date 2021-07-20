@@ -1,0 +1,7 @@
+﻿  snetcfg.cpp
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\snetcfg.cpp(441): warning C4101: “cchRequiredSize”: 未引用的局部变量
+c:\users\asus\source\repos\consoleapplication1\consoleapplication1\snetcfg.cpp(593): warning C4101: “szClassName”: 未引用的局部变量
+  ConsoleApplication1.cpp
+  _WIN32_WINNT not defined. Defaulting to _WIN32_WINNT_MAXVER (see WinSDKVer.h)
+  正在生成代码...
+  ConsoleApplication1.vcxproj -> C:\Users\ASUS\source\repos\ConsoleApplication1\Debug\ConsoleApplication1.exe
